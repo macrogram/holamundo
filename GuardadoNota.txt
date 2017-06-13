@@ -1,0 +1,8 @@
+"detail" -> "[{"description":"0","id":"030116"},{"description":"0","id":"030117"},{"description":"0","id":"030118"},{"description":"0","id":"030113"},{"description":"0","id":"030114"},{"description":"0","id":"030115"},{"description":"0","id":"030119"}]"
+
+{"detail":"[{\"description\":\"100.00\",\"id\":\"030106\"},{\"description\":\"2.0\",\"id\":\"030107\"},{\"description\":\"2.1\",\"id\":\"030108\"},{\"description\":\"2.2\",\"id\":\"030109\"},{\"description\":\"6.3\",\"id\":\"030110\"}]","cod_plectivo":"03010054","estacion":"860897034962157","cod_docente":"0908903230","parcial":"2","cod_materia":"0301103","cod_estudiante":"0955356068","cod_grupo":"03010015"}
+
+
+
+
+[{"description":"-1","id":"030116"},{"description":"-1","id":"030117"},{"description":"-1","id":"030118"},{"description":"7","id":"030113"},{"description":"4.30","id":"030114"},{"description":"-1","id":"030115"},{"description":"5.65","id":"030119"}]
